@@ -8,3 +8,10 @@ Git: https://github.com/alura-cursos/logica-js/tree/desafio_1
 * Criamos um if, que é uma instrução em programação que permite ao computador tomar decisões ao executar um bloco de código apenas se uma condição específica for verdadeira.
 
 -> Condicionais e concatenação
+
+* Utilizamos o console para testar e depurar nosso código, exibindo mensagens e valores durante a execução do programa;
+* Aprendemos a utilizar estruturas condicionais (if/else) para criar lógicas que permitem ao programa tomar decisões com base em condições específicas;
+* Implementamos um bloco de código para exibir uma mensagem caso o chute do usuário não seja igual ao número secreto;
+* Usamos template strings para concatenar o número secreto com o valor armazenado em uma variável e exibir uma mensagem personalizada
+
+-> Loops e tentativas
