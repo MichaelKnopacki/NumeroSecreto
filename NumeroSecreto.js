@@ -1,12 +1,14 @@
+/*
+>>> Salvando código atualizado
+
 alert('Boas vindas ao nosso site!');
 
-let numeroMaximo = 10;
-let numeroSecreto = parseInt( Math.random() * numeroMaximo + 1 );
+let numeroSecreto = parseInt( Math.random() * 10 + 1 );
 let chute;
 let tentativas = 1;
 
 while ( chute != numeroSecreto){
-    chute = prompt (`Chute um número de 0 a ${numeroMaximo}: `);
+    chute = prompt ( 'Chute um número de 0 a 10: ');
 
         if ( chute == numeroSecreto){
            break;
@@ -24,3 +26,4 @@ while ( chute != numeroSecreto){
 let qtdatentaivas = tentativas > 1 ? 'tentativas' : 'tentaiva';
 alert(`Você acertou o número secreto : ${numeroSecreto} , em ${tentativas} ${qtdatentaivas}`);
 
+*/
